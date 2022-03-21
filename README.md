@@ -9,6 +9,6 @@ I hope to improve my capabilities using GIS by including more sophisticated stat
 
 ## Portfolio
 
-### Custom Map fro Botellas de Amor
+### Custom Map for Botellas de Amor
 
 https://github.com/lhamon23/GIS-Portfolio/issues/1#issue-1174738705
