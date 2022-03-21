@@ -11,4 +11,4 @@ I hope to improve my capabilities using GIS by including more sophisticated stat
 
 ### Custom Map for Botellas de Amor
 
-CustomMap_BotellasAmor.md
+https://github.com/lhamon23/GIS-Portfolio/blob/9a5dab0f26f0fd94bc043ce46c36847870df20b2/CustomMap_BotellasAmor.md
