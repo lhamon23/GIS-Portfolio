@@ -17,19 +17,27 @@ This is the link to the final result: https://lhamon23.github.io/GIS-Portfolio/C
 
 ### Getting familiar with ArcGIS Insights by exploring the DEA pain pill database
 
-Creating 
+The data set on pain pills offered exciting options for analysis. In the case of Mingo County, identifying the distribution nodes is interesting since it enables one to understand the distances that the medicines undergo to arrive at the different pharmacies that distribute in the county. It is also interesting to identify the county's pills distribution concentration and reduced number of distributors. This shows that these distributors concentrate on a high rate of distribution of pain pills in the county. One of the most valuable takeaways of this exercise is the usefulness of link maps. In this case, the fact that the links represent the magnitude of the dosage distributed among nodes enables an understanding of the breadth of the distribution channels.
 
-The final output of this assignment was the creation : https://docs.google.com/presentation/d/12ZtGk8vgCl3mWXjHDn_UZWwGOAXjJy2K/edit?usp=sharing&ouid=116221328138111940294&rtpof=true&sd=true
+This is one of the final visualization of the link map obtained in this exercise are:
+
+![image](https://user-images.githubusercontent.com/98049283/166177585-e4899a2e-578c-4c8b-933a-b345f9468b81.png)
+
+Additionally, the final output of this assignment was the creation of a presentation showing the pros and cons of ArcGIS Insights. The presentation is available in: https://docs.google.com/presentation/d/12ZtGk8vgCl3mWXjHDn_UZWwGOAXjJy2K/edit?usp=sharing&ouid=116221328138111940294&rtpof=true&sd=true
 
 ### Exploring ArcGIS Spatial Data Science MOOCS
 
 #### Data Engineering and visualization - Using Notebooks
 
-Creating 
+The exercises were great opportunities to understand new features that I wasn't aware ArcGIS had. The usage of notebooks and the data engineering tools provide new options for collaborating when using GIS and regarding the type of processes that can be done in the program. Altogether, these exercises showed me that ArcGIS could also be a program for data processing and creating relevant and attractive data visualizations. 
+
+Some scenarios where I identified additional opportunities for the use of Notebooks were: 1) Data preparation for spatial analysis and 2) 
+Collaborating with teams. In regards to the features for using more advanced graphing capabilities in the software, I think I can employ them in the future for: 1)
+Doing an exploratory analysis of my statistics in ArcGIS, 2) Creating relevant visualizations and making filtering easier, and 3) Exploring bivariate relationships within a map.
 
 #### Prediction Models
 
-Creating 
+This was my first approach to prediction models and the inspiration for my final project (see next section). One of the most exciting possibilities I have explored while using GIS is creating a prediction model to forecast, downscale, or replace missing values. I used to think these processes were strictly confined to statistical software that usually required more complex work and advanced knowledge of statistical tools. It's nice to know that ArcGIS Pro enables exploring geospatial data using advanced statistical tools. I was also impressed that predictive analysis could be that easily represented geographically - the exercise on how voter turnout could look in the future is an advantageous way to visualize the complexity of a predictive model. This way of displaying data is a fantastic tool for easing data communication with someone who is not necessarily a data expert.
 
 ### Final Project: Creating a predictive model for identifying high risk municipalities for social leaders in Colombia
 
