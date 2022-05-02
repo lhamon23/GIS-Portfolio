@@ -11,9 +11,34 @@ I hope to improve my capabilities using GIS by including more sophisticated stat
 
 ### Custom Map for Botellas de Amor
 
-Link https://github.com/lhamon23/GIS-Portfolio/blob/9a5dab0f26f0fd94bc043ce46c36847870df20b2/CustomMap_BotellasAmor.html
+One of the first issues that was addressed in the course was the creation of personalized/custom maps for an organization. In this case I decided to create a custom map for Botellas de Amor, a Colombian NGO that works in reducing waste by creating new materials out of plastic bottles with non reciclable waste.  
 
+This is the link to the final result: https://lhamon23.github.io/GIS-Portfolio/CustomMap_BotellasAmor.html
+
+### Getting familiar with ArcGIS Insights by exploring the DEA pain pill database
+
+Creating 
+
+The final output of this assignment was the creation : https://docs.google.com/presentation/d/12ZtGk8vgCl3mWXjHDn_UZWwGOAXjJy2K/edit?usp=sharing&ouid=116221328138111940294&rtpof=true&sd=true
+
+### Exploring ArcGIS Spatial Data Science MOOCS
+
+#### Data Engineering and visualization - Using Notebooks
+
+Creating 
+
+#### Prediction Models
+
+Creating 
 
 ### Final Project: Creating a predictive model for identifying high risk municipalities for social leaders in Colombia
 
+This exploratory project attempts to create a predictive model by using the forest-based classification and regression tool included in ArcGIS Pro. This model will enable the identification of the municipalities in which leaders might have a higher risk of facing threats or even being murdered.
+
+One of the biggest challenges I faced when using this geopsatial tool was the lack of complete data for all of the initial variables that I wante to include in the model. Since different crimes tahta are not thata common were included in the first model the tool could not run due to a lack of information. Oncce correcting that issue the model did not seem to throw significant result. However, further analysis was done to mention potential next steps to improve this exploratory exercise. 
+
 <iframe src="https://storymaps.arcgis.com/stories/19e4481c0fb2421da58efd7ee5d1f6ed?header" width="100%" height="500px" frameborder="0" allowfullscreen allow="geolocation"></iframe>
+
+## Closing Remarks
+
+This course provided me with 
