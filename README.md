@@ -49,4 +49,4 @@ One of the biggest challenges I faced when using this geopsatial tool was the la
 
 ## Closing Remarks
 
-This course provided me with 
+This course provided me with new elements to keep exploring ArcGIS capabilities. At this point I have learnt the extent of the statistical analysis that can be performed directly in the platform and even exploring innovative features that the program offers. I'm looking forward to keep on exploring ESRI's toosl for data analysis.
